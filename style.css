@@ -1,0 +1,105 @@
+body{
+    background-color: #FEFAE0;
+}
+nav ul{
+    background-color: #CCD5AE;
+    color: #FEFAE0;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 100%;
+    text-align: center;
+    width: 8%;
+    padding: 3px;
+    border-radius: 50px;
+    margin: 10px;
+    float: right;
+}
+
+#firstpage{
+    background:#FEFAE0;
+    padding: 165px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 200px;
+    line-height: 80%;
+}
+
+#objective{
+    background-color:#CCD5AE;
+    padding: 165px;
+    color: #FEFAE0;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:800;
+    font-size:60px;
+    line-height: 90%;
+}
+
+#objectiveparagraph{
+    background-color: #CCD5AE;
+    color: #FEFAE0;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:500;
+    font-size:60px;
+    line-height: 90%;
+    text-align: center;
+}
+
+#h3school{
+    background-color: white;
+    padding: 0px 160px 60px 65px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:800;
+    font-size:60px;
+    line-height: 90%;
+    text-align: left;
+
+}
+
+#school{
+    background-color: white;
+    color: rgb(87, 82, 82);
+    padding: 100px;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:400;
+    font-size:30px;
+    line-height: 120%;
+    text-align: right;
+}
+
+#experience{
+    background-color: white;
+}
+#h3experience{
+    background-color: white;
+    padding: 0px 160px 60px 165px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:800;
+    font-size:60px;
+    line-height: 90%;
+    text-align: left;
+
+}
+#experienceAlign{
+    display: flex;
+}
+h3{
+    background-color: white;
+    color: rgb(87, 82, 82);
+    font-family: 'Lexend';
+    font-style:bold;
+    font-weight:400;
+    font-size:30px;
+    line-height: 90%;
+    text-align: center;
+}
