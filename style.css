@@ -1,0 +1,241 @@
+body{
+    background-color: #FEFAE0;
+}
+nav ul{
+    background-color: #CCD5AE;
+    color: #FEFAE0;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 100%;
+    text-align: center;
+    width: 8%;
+    padding: 3px;
+    border-radius: 50px;
+    margin: 10px;
+    float: right;
+}
+
+#firstpage{
+    background:#FEFAE0;
+    padding: 165px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 200px;
+    line-height: 80%;
+}
+
+#objective{
+    background-color:#CCD5AE;
+    padding: 165px;
+    color: #FEFAE0;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:800;
+    font-size:60px;
+    line-height: 90%;
+}
+
+#objectiveparagraph{
+    background-color: #CCD5AE;
+    color: #FEFAE0;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:500;
+    font-size:60px;
+    line-height: 90%;
+    text-align: center;
+}
+
+#h3school{
+    background-color: white;
+    padding: 0px 160px 60px 65px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:800;
+    font-size:60px;
+    line-height: 90%;
+    text-align: left;
+
+}
+
+#school{
+    background-color: white;
+    color: rgb(87, 82, 82);
+    padding: 100px;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:400;
+    font-size:30px;
+    line-height: 120%;
+    text-align: right;
+}
+
+#experience{
+    background-color: white;
+    padding-bottom: 80px;
+}
+
+#competencias{
+    background-color: white;
+    padding-bottom: 80px; 
+}
+#h3experience{
+    background-color: white;
+    padding: 0px 160px 60px 165px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:800;
+    font-size:60px;
+    line-height: 90%;
+    text-align: left;
+}
+
+#divexperience{
+
+}
+
+figure{
+    display:flex;
+    justify-content:center;
+}
+
+
+
+#expgroup{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    margin-left: 40px;
+}
+
+
+h3{
+    background-color: white;
+    color:#CCD5AE;
+    font-family: 'Lexend';
+    font-style:bold;
+    font-weight:700;
+    font-size:30px;
+    line-height: 90%;
+    text-align: center;
+}
+
+#explist li{
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:300;
+    font-size:20px;
+    line-height: 90%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    list-style:square;
+    color: rgb(94, 92, 92);
+}
+
+
+#complist li{
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:700;
+    font-size:40px;
+    line-height: 90%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    list-style:none;
+    color:#FEFAE0;
+
+}
+
+#competencias{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    align-content:center;
+}
+
+#divcompet{
+    background-color: #CCD5AE;
+    border-radius: 100px 100px 100px 100px;
+    width: 60%;
+}
+
+thead{
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:700;
+    font-size:40px;
+    line-height: 90%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    list-style:none;
+    color: rgb(146, 144, 142);
+}
+
+td{
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:400;
+    font-size:30px;
+    line-height: 90%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    list-style:none;
+    color: rgb(146, 144, 142);
+}
+
+#cursos{
+    background-color: white;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    align-content:center;
+}
+
+#idiomas{
+    padding-top: 90px;
+    background-color: white;
+    background-color: white;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    align-content:center;
+}
+
+#pidioma{
+    background-color: white;
+    color: rgb(87, 82, 82);
+    padding: 100px;
+    font-family: 'Lexend';
+    font-style:normal;
+    font-weight:400;
+    font-size:30px;
+    line-height: 120%;
+    text-align: right;
+}
+
+#rodape{
+    background:#FEFAE0;
+    padding: 165px;
+    color: #CCD5AE;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+}
