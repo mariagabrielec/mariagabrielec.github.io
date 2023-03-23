@@ -10,7 +10,7 @@ nav ul{
     font-size: 25px;
     line-height: 100%;
     text-align: center;
-    width: 8%;
+    width: 115px;
     padding: 3px;
     border-radius: 50px;
     margin: 10px;
@@ -19,7 +19,7 @@ nav ul{
 
 #firstpage{
     background:#FEFAE0;
-    padding: 165px;
+    padding: 165px 0px 165px 0px;
     color: #CCD5AE;
     font-family: 'Lexend';
     font-style: normal;
